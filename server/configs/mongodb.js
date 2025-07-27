@@ -6,7 +6,7 @@ const connectDB = async () => {
         console.log("Database Connected")
     })
 
-   await mongoose.connect("mongodb+srv://santosh:santosh1123@cluster0.dzsgx.mongodb.net/bg-removal");
+   await mongoose.connect("mongodb+srv://santosh:Santosh1123@cluster0.ng8ffya.mongodb.net//bg-removal");
 
 }
 
